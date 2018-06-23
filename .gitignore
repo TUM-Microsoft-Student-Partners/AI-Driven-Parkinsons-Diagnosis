@@ -6,8 +6,9 @@ __pycache__/
 # wav files
 *.wav
 
-# created feature and label files
+# created feature/label/model files
 *.txt
+*.model
 
 # C extensions
 *.so

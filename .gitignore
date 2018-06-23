@@ -6,6 +6,9 @@ __pycache__/
 # wav files
 *.wav
 
+# created feature and label files
+*.npy
+
 # C extensions
 *.so
 

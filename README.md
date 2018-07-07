@@ -21,7 +21,7 @@ We recommend the following agend.
 6. Apply it to the Parkinsons Dataset
 
 ## For participants
-If you will participate in the workshop, please checkout our [setup instructions]().
+If you will participate in the workshop, please checkout our [setup instructions](/workshop-material/readme-participants.md).
 
 ## For organizeres
-If you want to hold this workshop by your self checkout our [instruction](tbd) on how to prepare this workshop.
+If you want to hold this workshop by your self checkout our [instruction](/workshop-material/readme-instructors.md) on how to prepare this workshop.

@@ -29,3 +29,6 @@ If you will participate in the workshop, please checkout our [setup instructions
 
 ## For instructors
 If you want to hold this workshop by your self checkout our [instruction](/workshop-material/readme-instructors.md) on how to prepare this workshop.
+
+## Feedback
+In case you have any questions regarding the workshop or the code it self, feel free to create a [new issue](https://github.com/TUM-Microsoft-Student-Partners/AI-Driven-Parkinsons-Diagnosis/issues/new)

@@ -31,3 +31,7 @@ If you want to hold this workshop by your self checkout our [instruction](/works
 
 ## Feedback
 In case you have any questions regarding the workshop or the code it self, feel free to create a [new issue](https://github.com/TUM-Microsoft-Student-Partners/AI-Driven-Parkinsons-Diagnosis/issues/new)
+
+## Contributors
+- Henry van der Vegte [[Github](https://github.com/HenryvanderVegte)]
+- Max-Philipp Schrader [[Github](https://github.com/mpSchrader)]

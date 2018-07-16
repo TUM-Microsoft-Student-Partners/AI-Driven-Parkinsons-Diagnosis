@@ -1,4 +1,3 @@
-# **Work in Progress**
 # Hands On: AI-Driven Parkinsons Diagnosis
 A workshop as introduction to Deep Learning and speach analysis.
 

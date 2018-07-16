@@ -10,9 +10,9 @@ During the workshops the participants will learn:
 We recommend the following agend.
 
 1. **System Setup** <br>
-    You will need to bring your own laptop. There are two ways to run code during the workshop.
-    a. **Locally** on your machine. There for you will need Python 3.6, Keras, and Tensorflow installed.
-    b. **Azure Notebooks** You can run the code online over Azure Notebooks. https://notebooks.azure.com/
+    You will need to bring your own laptop. There are two ways to run code during the workshop. <br>
+    a. **Locally** on your machine. There for you will need Python 3.6, Keras, and Tensorflow installed. <br>
+    b. **Azure Notebooks** You can run the code online over Azure Notebooks. https://notebooks.azure.com/ <br>
 2. **Introduction to machine learning** <br>
 This section will provide you with the basic iddeas of machine learning.
 3. **Introduction to deep learning** <br>
